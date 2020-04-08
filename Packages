@@ -1,0 +1,14 @@
+Package: com.math.citydom++
+Version: 0.0.1-3+debug
+Section: Tweaks
+Maintainer: Mathurin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Tweaks/CityDom++/com.math.citydom++_1.0.iphoneos-arm.deb
+Size: 3466
+Installed-Size: 104
+MD5sum: 705f6821942403d54a6adabe192dbe56
+Description: This tweak gives the ability to build an HQ every three hours in CityDomination
+Name: CityDom++
+Author: Mathurin
+

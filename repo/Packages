@@ -13,16 +13,16 @@ Name: class-dump-ios
 Author: DreamDevLost
 
 Package: com.mathurin.citydom++
-Version: 0.0.1
+Version: 1.0
 Section: Tweaks
-Maintainer: Mathurin
+Maintainer: Mathurin <mathurinqw@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: Tweaks//CityDom++/com.mathurin.citydom++_0.0.1_iphoneos-arm.deb
-Size: 2896
+Filename: Tweaks//CityDom++/com.mathurin.citydom++_1.0_iphoneos-arm.deb
+Size: 3058
 Installed-Size: 104
-MD5sum: d3f89248952ffef7a1e72dbfc095162e
+MD5sum: 78c06d25dca61164e5d60eca3be69534
 Description: This tweak gives the ability to build an HQ every three hours in CityDomination
 Name: CityDom++
-Author: Mathurin
+Author: Mathurin <mathurinqw@gmail.com>
 

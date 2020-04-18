@@ -26,3 +26,16 @@ Description: This tweak gives the ability to build an HQ every three hours in Ci
 Name: CityDom++
 Author: Mathurin <mathurinqw@gmail.com>
 
+Package: com.mathurin.tree
+Version: 1.0.1
+Section: System
+Maintainer: Mathurin
+Architecture: iphoneos-arm
+Filename: Tweaks//tree/com.mathurin.tree_1.0.1_iphoneos-arm.deb
+Size: 65804
+Installed-Size: 280
+MD5sum: 0f6182d8a6c47024088b38579e1ced97
+Description: tree is a command-line utility for listing contents of directories in a tree-like format.
+Name: tree
+Author: Mathurin
+
